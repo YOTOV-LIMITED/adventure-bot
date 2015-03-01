@@ -10,3 +10,5 @@ NOTES
 build/
 dist/
 slask.egg-info/
+.idea/
+*.iml
